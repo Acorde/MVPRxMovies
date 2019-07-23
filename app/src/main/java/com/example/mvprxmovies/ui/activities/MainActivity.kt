@@ -1,7 +1,8 @@
-package com.example.mvprxmovies
+package com.example.mvprxmovies.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvprxmovies.R
 
 class MainActivity : AppCompatActivity() {
 
